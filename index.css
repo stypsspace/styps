@@ -19,7 +19,7 @@ font-weight:400;
 
 
 .wrap{
-display:none;
+display:block;
 position: relative;
 width: 80%;
 min-height:100vh;
