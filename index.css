@@ -39,6 +39,8 @@ margin-right: auto;
 position:fixed;
 background:#ffffff;
 width:100%;
+left: 0;
+right: 0;
 }
 
 #header-title{
