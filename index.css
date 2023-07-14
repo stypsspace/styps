@@ -23,11 +23,8 @@ display:block;
 position: relative;
 width: 80%;
 min-height:100vh;
-background:#000000;
 margin-left:auto;
 margin-right: auto;
-color: #ffffff;
-
 }
 
 .container{
@@ -46,6 +43,7 @@ width:100%;
 top:0;
 left: 0;
 right: 0;
+display: none;
 }
 
 #header-title{
@@ -61,4 +59,17 @@ margin-right: auto;
 
 p.paragraph{
 line-height: 12px;
+display: none;
 }
+
+
+@media (max-width: 415px) and (min-width: 280px) {
+  /* Your CSS styles for this breakpoint */
+  /* For example: */
+  body {
+    font-size: 14px;
+  }
+
+
+}
+
