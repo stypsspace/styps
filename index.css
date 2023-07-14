@@ -130,7 +130,7 @@ right:0;
 .join-box{
 width:250px; 
 color:#fefefe;
-background:#333333;
+background:#111;
 border-radius:15px;
 display: flex;
 justify-content: space-between;
@@ -142,14 +142,14 @@ margin-bottom:65px;
 }
 
 #styps-logo{  
-width:2.4vw; 
+width:2.3vw; 
 display:inline-block;
 margin-left:5px;    
 }
 
 button#join-text{
-padding:8px 15px;
-background:#111111;
+padding:12px 15px;
+background:#222;
 border-radius:10px;
 display:block;
 color:#f3f3f3;
@@ -159,7 +159,7 @@ font-size:11px;
 
 
 .credit-text{
-color:#333333;
+color:#222;
 position:absolute;
 bottom:15px;
 left:0;
