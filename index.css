@@ -1,3 +1,11 @@
+
+
+/******************************************************************
+Google Fonts
+******************************************************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+
 /******************************************************************
 Reset
 ******************************************************************/
@@ -128,7 +136,7 @@ margin-top: -84px;*/
 h1.content-inner{
 color:#f3f3f3;
 font-size:32vw;
-font-family:inherit;  
+font-family: 'Space Grotesk', sans-serif; 
 text-align: center;
 }
 
