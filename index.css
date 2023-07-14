@@ -160,11 +160,12 @@ border-radius:15px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-padding:5px;
+padding:6px;
 margin-left:auto;
 margin-right: auto;
 margin-bottom:65px;
 }
+
 
 #styps-logo{  
 width:28px; 
