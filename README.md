@@ -1,2 +1,2 @@
-# styps
-# Directory
+# Styps
+# A simple basic landing page
